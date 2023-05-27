@@ -6,4 +6,4 @@ git config --list
 git add .
 git commit -m "aaaa"
 git log
-# add noew line
+# add new line
