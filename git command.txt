@@ -5,3 +5,4 @@ git config --global user.email "aaa@bbb"
 git config --list
 git add .
 git commit -m "aaaa"
+git log
