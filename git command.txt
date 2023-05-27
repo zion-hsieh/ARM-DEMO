@@ -1,0 +1,5 @@
+git init
+git --version
+git config --global user.name "AAAAA"
+git config --global user.email "aaa@bbb"
+git config --list
